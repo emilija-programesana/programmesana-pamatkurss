@@ -6,3 +6,5 @@ Autors: **Emīlija Piļāne**
 ## Licence 
 Vispopuklārākā programmēšanas aplikācija bērniem
 **BYE**
+### .md fails nav parasts teksta fails tāpēc, ka tajā ir paslēptas norādes (kods), kas automātiski pārvērš vienkāršu tekstu skaisti noformētā dokumentā ar virsrakstiem, treknrakstu un saitēm.
+
