@@ -1,1 +1,1 @@
-print(Mans pirmais comuuuumit!)
+print("labdien!")
