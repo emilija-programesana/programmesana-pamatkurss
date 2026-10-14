@@ -1,4 +1,5 @@
-#Prgrammēšanas pamati
+# Programmēšanas pamatkurss
+
 Autors: Emīlija Piļāne
 
 ## Palaišana
